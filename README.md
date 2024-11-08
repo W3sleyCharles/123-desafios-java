@@ -1,4 +1,5 @@
 # desafio-logica-java
+> Resolvi começar uma serie de 123 desafios, a ideia é realizar um desafio por dia e o resultado final poder ser visto no Github.
 Exercícios de lógica da programação em Java
 
 - [x]  1 . Calcule a média de duas notas e mostre a média aritmética obtida.
