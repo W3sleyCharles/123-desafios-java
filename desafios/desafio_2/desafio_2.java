@@ -1,3 +1,5 @@
+package desafios.desafio_2;
+
 // 2 . Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações.
 
 import java.util.Scanner;
