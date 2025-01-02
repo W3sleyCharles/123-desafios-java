@@ -1,6 +1,6 @@
-package desafios.desafio_1;
-
 // 1 . Calcule a média de duas notas e mostre a média aritmética obtida.
+
+package desafios.desafio_1;
 
 // Importando biblioteca para realizar um input de dados
 import java.util.Scanner;
