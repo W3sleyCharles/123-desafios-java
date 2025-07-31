@@ -8,15 +8,15 @@ public class desafio_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite o preço do litro da gasolina: R$ ");
+        System.out.print("Digite o preço do litro da gasolina: ");
         double precoLitro = scanner.nextDouble();
 
-        System.out.print("Digite o valor que deseja colocar no tanque: R$ ");
-        double valorPago = scanner.nextDouble();
+        System.out.print("Digite o valor do pagamento: ");
+        double valorPagamento = scanner.nextDouble();
 
-        double litrosAbastecidos = valorPago / precoLitro;
+        double litros = valorPagamento / precoLitro;
 
-        System.out.printf("Você conseguiu colocar %.2f litros de gasolina no tanque.\n", litrosAbastecidos);
+        System.out.printf("Você conseguiu colocar %.2f litros no tanque.%n", litros);
 
         scanner.close();
     }
